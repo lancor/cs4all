@@ -7,4 +7,5 @@
 * Meg Tobin, Program Director, Glitch
 * Jackie Alcine, Independent Developer
 * Tantek Çelik, Web Standards Lead, Mozilla
+* Rachel Gabriel, Associate Professor, UCONN
 
