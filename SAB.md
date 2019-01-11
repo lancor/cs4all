@@ -3,10 +3,8 @@
 * Jess Klein, Senior UX designer, Wikimeda
 * Rachel Gabriel, Associate Professor, UCONN
 * Laurie Henry, Dean, Salisbury College
-* Meg Tobin, Glitch
+* Meg Tobin, Partnership Director, Glitch
 
-## Pending
-* Jackie Alcine, Independent Developer
 
 
 
